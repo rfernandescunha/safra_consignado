@@ -1,0 +1,15 @@
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\bin\Debug\net5.0\Safra.Application.deps.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\bin\Debug\net5.0\Safra.Application.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\bin\Debug\net5.0\ref\Safra.Application.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\bin\Debug\net5.0\Safra.Application.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\bin\Debug\net5.0\Safra.Domain.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\bin\Debug\net5.0\Safra.Domain.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\obj\Debug\net5.0\Safra.Application.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\obj\Debug\net5.0\Safra.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\obj\Debug\net5.0\Safra.Application.AssemblyInfoInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\obj\Debug\net5.0\Safra.Application.AssemblyInfo.cs
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\obj\Debug\net5.0\Safra.Application.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\obj\Debug\net5.0\Safra.Application.csproj.CopyComplete
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\obj\Debug\net5.0\Safra.Application.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\obj\Debug\net5.0\ref\Safra.Application.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Safra\Safra.Application\obj\Debug\net5.0\Safra.Application.pdb

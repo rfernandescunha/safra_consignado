@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lj3q+1Wy3+ChFdRrZKHQspIkxOCabqoJh7qwkZLYTQisIDYr1/41osoxbE8+QkJ8vMHSFp1iXCU2lQtXi40Feg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\Safra\\Safra.Domain\\Safra.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafa_\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
